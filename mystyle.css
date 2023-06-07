@@ -1,0 +1,47 @@
+.myFooter {
+    background-color: #1C1D23;
+    font-family: "Bifocals", regular;
+  }
+  footer .text-body-secondary {
+    color: #ffffff !important;
+  }
+  
+  footer .nav-item a {
+    color: #ffffff !important;
+  }
+  
+  .logo {
+    height: 10px;
+    width: auto;
+  }
+  
+  .py-3 {
+      padding-top: 1rem!important;
+      padding-bottom: 1rem!important;
+  }
+  .my-4 {
+      margin-top: 1.5rem!important;
+      margin-bottom: 1.5rem!important;
+  }
+  .align-items-center {
+      align-items: center!important;
+  }
+  .justify-content-between {
+      justify-content: space-between!important;
+  }
+  .flex-wrap {
+      flex-wrap: wrap!important;
+  }
+  .border-top {
+      border-top: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important;
+  }
+  .d-flex {
+      display: flex!important;
+  }
+  *, ::after, ::before {
+      box-sizing: border-box;
+  }
+  user agent stylesheet
+  footer {
+      display: block;
+  }
